@@ -6,7 +6,7 @@
       "web": "http://remysharp.com"
     }
   ],
-  "name": "jsbin",
+  "name": "grouchal@jsbin",
   "description": "Collaborative JavaScript Debugging App",
   "main": "./lib/app",
   "version": "3.41.9",
